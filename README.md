@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://anmol-gen-ai.vercel.app/](https://anmol-gen-ai.vercel.app/)
+[https://sid-gen-ai.vercel.app/](https://sid-gen-ai.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
