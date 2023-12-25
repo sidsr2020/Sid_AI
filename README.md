@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://sid-gen-ai.vercel.app/](https://sid-gen-ai.vercel.app/)
+https://sid-nb1w7hdp1-sids-projects-293862f9.vercel.app/
 
 <h2>Project Screenshots:</h2>
 
